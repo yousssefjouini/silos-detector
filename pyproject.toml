@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "silos"
+version = "0.0.1"
+description = "Computer Vision Hackathon"
+readme = "README.md"
+requires-python = ">=3.8"

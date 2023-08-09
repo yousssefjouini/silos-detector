@@ -1,0 +1,7 @@
+matplotlib
+streamlit
+st-clickable-images
+geopy
+scikit-learn
+keras
+tensorflow
